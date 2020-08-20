@@ -13,7 +13,7 @@ Education
 
 	High school for the Gifted (Major in Informatics)
 
-Top projects
+My top projects
 ---------------
 [![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=Introduce-to-Github&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 [![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=PKcoin-full-version&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
