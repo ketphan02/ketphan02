@@ -11,6 +11,6 @@ Education
 
 	High school for the Gifted (Major in Informatics)
 
-Languages 
----------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketphan02)](https://github.com/anuraghazra/github-readme-stats)
+My Github stats
+---------------
+![PhanKiet's github stats](https://github-readme-stats.vercel.app/api?username=ketphan02&show_icons=true&theme=radical?count_private=true)
