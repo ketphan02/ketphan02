@@ -13,8 +13,8 @@ Education
 
 My top projects
 ---------------
-[![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=github-readme-stats&theme=graywhite)](https://github.com/ketphan02/PKcoin-full-version)
-[![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=github-readme-stats&theme=graywhite)](https://github.com/ketphan02/chatbot-ubc)
+[![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=PKcoin-full-version&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=chatbot-ubc&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 My Github stats
 ---------------
