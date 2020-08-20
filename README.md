@@ -15,10 +15,10 @@ Education
 
 Top projects
 ---------------
+[![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=Introduce-to-Github&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 [![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=PKcoin-full-version&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 [![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=chatbot-ubc&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 [![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=bot-nksc&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=Introduce-to-Github&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 My Github stats
 ---------------
