@@ -25,25 +25,25 @@ My Github stats
 Contact
 -------
 <a href="https://github.com/ketphan02">
-	<img width="32" align="left"
+	<img width="20" align="left"
 		 alt="My GitHub profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
 </a>
 
 <a href="linkedin.com/in/phan-kiet-72916b147/">
-	<img width="32" align="left"
+	<img width="20" align="left"
 		 alt="My LinkedIn profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
 
 <a href="mailto:tuankiet.phannguyen@gmail.com">
-	<img width="32" align="left"
+	<img width="20" align="left"
 		 alt="My Gmail"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
 </a>
 
 <a href="mailto:tuankietvn@outlook.com">
-	<img width="32" align="left"
-		 alt="My Gmail"
+	<img width="20" align="left"
+		 alt="My Outlook"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg">
 </a>
