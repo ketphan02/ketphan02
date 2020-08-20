@@ -13,4 +13,4 @@ Education
 
 My Github stats
 ---------------
-![PhanKiet's github stats](https://github-readme-stats.vercel.app/api?username=ketphan02&show_icons=true&theme=graywhite?count_private=true)
+![PhanKiet's github stats](https://github-readme-stats.vercel.app/api?username=ketphan02&?count_private=true&show_icons=true&theme=graywhite)
