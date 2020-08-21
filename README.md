@@ -16,17 +16,11 @@ Education
 My top projects
 ---------------
 <div align='center'>
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=Introduce-to-Github&theme=graywhite' />
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=PKcoin-full-version&theme=graywhite' />
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=chatbot-ubc&theme=graywhite' />
-<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=bot-nksc&theme=graywhite' />
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=Introduce-to-Github&theme=graywhite' padding=5px />
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=PKcoin-full-version&theme=graywhite' padding=5px />
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=chatbot-ubc&theme=graywhite' padding=5px />
+<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=bot-nksc&theme=graywhite' padding=5px />
 </div>
-
-[![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=Introduce-to-Github&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=PKcoin-full-version&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=chatbot-ubc&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![PKcoin ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=bot-nksc&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
 
 My Github stats
 ---------------
