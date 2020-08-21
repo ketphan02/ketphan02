@@ -11,7 +11,7 @@ Education
 
 2017 - 2020
 
-	High school for the Gifted (Major in Informatics)
+	Ho Chi Minh City High school for the Gifted - Vietnam National University (Major in Informatics)
 
 My top projects
 ---------------
