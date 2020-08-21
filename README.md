@@ -22,7 +22,9 @@ My top projects
 
 My Github stats
 ---------------
-![PhanKiet's github stats](https://github-readme-stats.vercel.app/api?username=ketphan02&?count_private=true&show_icons=true&theme=graywhite)
+<div align='justify'>
+	<img src='https://github-readme-stats.vercel.app/api?username=ketphan02&?count_private=true&show_icons=true&theme=graywhite' />
+</div>
 
 Contact
 -------
