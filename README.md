@@ -1,7 +1,7 @@
 Phan Kiet
 =========
 
-I'm trying to learn as much as possible and becoming the best version of myself.
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="phan-kiet-72916b147"><a class="LI-simple-link" href='https://vn.linkedin.com/in/phan-kiet-72916b147?trk=profile-badge'>Phan Kiet</a></div>
 
 Education
 ---------
