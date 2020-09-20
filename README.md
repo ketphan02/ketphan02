@@ -36,7 +36,7 @@ Contact
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
 </a>
 
-<a href="https://www.linkedin.com/in/phan-kiet-72916b147/">
+<a href="https://www.linkedin.com/in/ketphan027/">
 	<img width="20" align="left"
 		 alt="My LinkedIn profile"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
