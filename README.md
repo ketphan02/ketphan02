@@ -7,7 +7,7 @@ Education
 ---------
 2020 - 2024 (expected)
 
-	University of British Columbia (BSc, Data Science)
+	University of British Columbia (BSc [Data Science and/or Computer Science])
 
 2017 - 2020
 
