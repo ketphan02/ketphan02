@@ -15,16 +15,22 @@ Education
 
 My top projects
 ---------------
-<div align='center' display='block'>
-<a href="https://github.com/ketphan02/MessMessBotBot">
-	<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=MessMessBotBot&theme=graywhite' />
-</a>
-<a href="https://github.com/ketphan02/PKcoin-full-version">
-	<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=PKcoin-full-version&theme=graywhite' />
-</a>
-<a href="https://github.com/ketphan02/chatbot-ubc">
-	<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=chatbot-ubc&theme=graywhite' />
-</a>
+<div align='center'>
+	<div>
+		<a href="https://github.com/ketphan02/MessMessBotBot">
+			<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=MessMessBotBot&theme=graywhite' />
+		</a>
+	</div>
+	<div>
+		<a href="https://github.com/ketphan02/PKcoin-full-version">
+			<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=PKcoin-full-version&theme=graywhite' />
+		</a>
+	</div>
+	<div>
+		<a href="https://github.com/ketphan02/chatbot-ubc">
+		<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=chatbot-ubc&theme=graywhite' />
+		</a>
+	</div>
 </div>
 
 My Github stats
