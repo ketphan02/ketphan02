@@ -15,7 +15,7 @@ Education
 
 My top projects
 ---------------
-<div align='center'>
+<div align='center' display='block'>
 <a href="https://github.com/ketphan02/MessMessBotBot">
 	<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=MessMessBotBot&theme=graywhite' />
 </a>
@@ -24,9 +24,6 @@ My top projects
 </a>
 <a href="https://github.com/ketphan02/chatbot-ubc">
 	<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=chatbot-ubc&theme=graywhite' />
-</a>
-<a href="https://github.com/ketphan02/bot-nksc">
-	<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=bot-nksc&theme=graywhite' />
 </a>
 </div>
 
