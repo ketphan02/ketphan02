@@ -54,26 +54,33 @@ My Github stats
 Contact
 -------
 <a href="https://github.com/ketphan02">
-	<img width="20" align="left"
-		 alt="My GitHub profile"
-		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
+	<img width="20"
+	     align="left"
+	     alt="My GitHub profile"
+	     style="background-color:white;"
+	     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
 </a>
 
 <a href="https://www.linkedin.com/in/ketphan02/">
-	<img width="20" align="left"
-		 alt="My LinkedIn profile"
-		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+	<img width="20"
+	     align="left"
+	     alt="My LinkedIn profile"
+	     style="background-color:white;"
+	     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
 
 <a href="mailto:tuankiet.phannguyen@gmail.com">
-	<img width="20" align="left"
-		 alt="My Gmail"
-		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
+	<img width="20" 
+	     align="left"
+	     alt="My Gmail"
+	     style="background-color:white;"
+	     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
 </a>
 
 <a href="mailto:tuankietvn@outlook.com">
-	<img width="20" align="left"
-		 alt="My Outlook"
-	     	 style="background-color:white;"
-		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg">
+	<img width="20"
+	     align="left"
+	     alt="My Outlook"
+	     style="background-color:white;"
+	     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg">
 </a>
