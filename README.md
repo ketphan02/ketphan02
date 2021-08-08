@@ -33,13 +33,17 @@ My top projects
 	</div>
 </div>
 
-My Github stats
----------------
+My Top Languages
+===
 <div align='center'>
 	<a href='https://github.com/ketphan02'>
 		<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_forks=true' />
 	<a/>
 </div>
+
+
+My Github stats
+---------------
 <div align='center'>
 	<a href='https://github.com/ketphan02'>
 		<img src='https://github-readme-stats.vercel.app/api?username=ketphan02&?count_private=true&show_icons=true&theme=graywhite' />
