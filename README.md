@@ -74,5 +74,6 @@ Contact
 <a href="mailto:tuankietvn@outlook.com">
 	<img width="20" align="left"
 		 alt="My Outlook"
+	     	 style="background-color:white;"
 		 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg">
 </a>
