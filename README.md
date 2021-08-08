@@ -36,10 +36,14 @@ My top projects
 My Github stats
 ---------------
 <div align='center'>
-	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyter-notebook' />
+	<a href='https://github.com/ketphan02'>
+		<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyter-notebook' />
+	<a/>
 </div>
 <div align='center'>
-	<img src='https://github-readme-stats.vercel.app/api?username=ketphan02&?count_private=true&show_icons=true&theme=graywhite' />
+	<a href='https://github.com/ketphan02'>
+		<img src='https://github-readme-stats.vercel.app/api?username=ketphan02&?count_private=true&show_icons=true&theme=graywhite' />
+	</a>
 </div>
 
 Contact
