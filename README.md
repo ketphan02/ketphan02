@@ -1,7 +1,8 @@
 Phan Kiet
 =========
 
-Trying harder.
+Sophomore at The University of British Columbia Okanagan.
+Major in Data Science and Minor in Computer Science.
 
 Education
 ---------
