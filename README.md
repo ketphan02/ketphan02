@@ -37,7 +37,7 @@ My Github stats
 ---------------
 <div align='center'>
 	<a href='https://github.com/ketphan02'>
-		<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyter-notebook' />
+		<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_forks=true' />
 	<a/>
 </div>
 <div align='center'>
