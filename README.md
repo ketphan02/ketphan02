@@ -8,7 +8,7 @@ Education
 ---------
 2020 - 2024 (expected)
 
-	University of British Columbia (BSc [Data Science and/or Computer Science])
+	University of British Columbia (BSc Major in Data Science and minor in Computer Science)
 
 2017 - 2020
 
