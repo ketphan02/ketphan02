@@ -32,34 +32,6 @@ My Top Languages 🤓
 
 Contact 📞
 -------
-<a href="https://github.com/ketphan02">
-	<img width="20"
-	     align="left"
-	     alt="My GitHub profile"
-	     style="background-color:white;"
-	     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg">
-</a>
-
-<a href="https://www.linkedin.com/in/ketphan02/">
-	<img width="20"
-	     align="left"
-	     alt="My LinkedIn profile"
-	     style="background-color:white;"
-	     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
-</a>
-
-<a href="mailto:tuankiet.phannguyen@gmail.com">
-	<img width="20" 
-	     align="left"
-	     alt="My Gmail"
-	     style="background-color:white;"
-	     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">
-</a>
-
-<a href="mailto:tuankietvn@outlook.com">
-	<img width="20"
-	     align="left"
-	     alt="My Outlook"
-	     style="background-color:white;"
-	     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg">
-</a>
+* (mailto:tuankietvn@outlook.com)[Email]
+* (https://www.linkedin.com/in/ketphan02/)[LinkedIn]
+* (https://github.com/ketphan02)[Github]
