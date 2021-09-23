@@ -1,20 +1,15 @@
-Phan Kiet
+Phan Kiet 🛸
 =========
 
 Sophomore at The University of British Columbia Okanagan.
-Major in Data Science and Minor in Computer Science.
 
 Education
 ---------
 2020 - 2024 (expected)
 
-	University of British Columbia (BSc Major in Data Science and minor in Computer Science)
+	University of British Columbia (BSc - Data Science)
 
-2017 - 2020
-
-	Ho Chi Minh City High school for the Gifted - Vietnam National University (Major in Informatics)
-
-My top projects
+Some projects I do for fun
 ---------------
 <div align='center'>
 	<div>
@@ -40,15 +35,6 @@ My Top Languages
 	<a href='https://github.com/ketphan02'>
 		<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_forks=true' />
 	<a/>
-</div>
-
-
-My Github stats
----------------
-<div align='center'>
-	<a href='https://github.com/ketphan02'>
-		<img src='https://github-readme-stats.vercel.app/api?username=ketphan02&?count_private=true&show_icons=true&theme=graywhite' />
-	</a>
 </div>
 
 Contact
