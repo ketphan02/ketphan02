@@ -32,6 +32,6 @@ My Top Languages 🤓
 
 Contact 📞
 -------
-* [mailto:tuankietvn@outlook.com](Email)
-* [https://www.linkedin.com/in/ketphan02/](LinkedIn)
-* [https://github.com/ketphan02](Github)
+* [Email](mailto:tuankietvn@outlook.com)
+* [LinkedIn](https://www.linkedin.com/in/ketphan02/)
+* [Github](https://github.com/ketphan02)
