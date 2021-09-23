@@ -20,11 +20,6 @@ Some projects I do for fun 🔨
 			<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=PKcoin-full-version&theme=graywhite' />
 		</a>
 	</div>
-	<div>
-		<a href="https://github.com/ketphan02/chatbot-ubc">
-		<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=chatbot-ubc&theme=graywhite' />
-		</a>
-	</div>
 </div>
 
 My Top Languages 🤓
