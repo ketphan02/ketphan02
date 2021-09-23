@@ -7,8 +7,9 @@ Education 👨🏻‍🏫
 ---------
 2020 - 2024: **University of British Columbia (BSc - Data Science)**
 
-Some projects I do for fun 🔨
+Some projects 🔨
 ---------------
+(Check out my repositories for more)
 <div align='center'>
 	<div>
 		<a href="https://github.com/ketphan02/MessMessBotBot">
