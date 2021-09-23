@@ -3,11 +3,11 @@ Phan Kiet 🛸
 
 Sophomore at The University of British Columbia Okanagan.
 
-Education
+Education 👨🏻‍🏫
 ---------
 2020 - 2024: **University of British Columbia (BSc - Data Science)**
 
-Some projects I do for fun
+Some projects I do for fun 🔨
 ---------------
 <div align='center'>
 	<div>
@@ -27,7 +27,7 @@ Some projects I do for fun
 	</div>
 </div>
 
-My Top Languages
+My Top Languages 🤓
 ---------------
 <div align='center'>
 	<a href='https://github.com/ketphan02'>
@@ -35,7 +35,7 @@ My Top Languages
 	<a/>
 </div>
 
-Contact
+Contact 📞
 -------
 <a href="https://github.com/ketphan02">
 	<img width="20"
