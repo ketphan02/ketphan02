@@ -5,9 +5,7 @@ Sophomore at The University of British Columbia Okanagan.
 
 Education
 ---------
-2020 - 2024 (expected)
-
-	University of British Columbia (BSc - Data Science)
+2020 - 2024: **University of British Columbia (BSc - Data Science)**
 
 Some projects I do for fun
 ---------------
