@@ -23,7 +23,7 @@ Some projects 🔨
 	</div>
 </div>
 
-My Top Languages 🤓
+Some languages I work with 🤓
 ---------------
 <div align='center'>
 	<a href='https://github.com/ketphan02'>
