@@ -7,22 +7,6 @@ Education 👨🏻‍🏫
 ---------
 2020 - 2024: **University of British Columbia (BSc - Data Science)**
 
-Some projects 🔨
----------------
-(Check out my repositories for more)
-<div align='center'>
-	<div>
-		<a href="https://github.com/ketphan02/MessMessBotBot">
-			<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=MessMessBotBot&theme=graywhite' />
-		</a>
-	</div>
-	<div>
-		<a href="https://github.com/ketphan02/PKcoin-full-version">
-			<img src='https://github-readme-stats.vercel.app/api/pin/?username=ketphan02&repo=PKcoin-full-version&theme=graywhite' />
-		</a>
-	</div>
-</div>
-
 Some languages I work with 🤓
 ---------------
 <div align='center'>
