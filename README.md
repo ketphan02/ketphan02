@@ -11,7 +11,7 @@ Some languages I work with 🤓
 ---------------
 <div align='center'>
 	<a href='https://github.com/ketphan02'>
-		<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_forks=true' />
+		<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ketphan02&exclude_forks=true' />
 	<a/>
 </div>
 
