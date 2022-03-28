@@ -1,12 +1,1 @@
-Phan Kiet
-=========
-
-Junior at The University of British Columbia Okanagan.
-
-Education
----------
-2020 - 2024: **University of British Columbia (BSc - Computer Science)**
-
-Contact
--------
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ketphan02/)
+![Metrics](https://metrics.lecoq.io/ketphan02?template=classic&discussions=1&projects=1&people=1&isocalendar=1&followup=1&achievements=1&lines=1&repositories=1&introduction=1&notable=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&projects.limit=4&projects.descriptions=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&config.timezone=Asia%2FSaigon)
