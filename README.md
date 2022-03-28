@@ -1,22 +1,12 @@
-Phan Kiet 🛸
+Phan Kiet
 =========
 
-Sophomore at The University of British Columbia Okanagan.
+Junior at The University of British Columbia Okanagan.
 
-Education 👨🏻‍🏫
+Education
 ---------
-2020 - 2024: **University of British Columbia (BSc - Data Science)**
+2020 - 2024: **University of British Columbia (BSc - Computer Science)**
 
-Some languages I work with 🤓
----------------
-<div align='center'>
-	<a href='https://github.com/ketphan02'>
-		<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_forks=true' />
-	<a/>
-</div>
-
-Contact 📞
+Contact
 -------
-* [Email](mailto:tuankietvn@outlook.com)
-* [LinkedIn](https://www.linkedin.com/in/ketphan02/)
-* [Github](https://github.com/ketphan02)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ketphan02/)
