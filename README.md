@@ -1,1 +1,3 @@
-![Metrics](https://raw.githubusercontent.com/ketphan02/ketphan02/master/github-metrics.svg)
+<div>
+<img src="github-metrics.svg" style="width:100%" alt="Profile"></img>
+</div>
