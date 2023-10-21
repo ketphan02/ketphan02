@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1031" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1347" class="">
     <defs>
         <style/>
     </defs>
@@ -30,16 +30,16 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
@@ -416,14 +416,160 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">COSC-499-W2023/year-long-project-team-3</span>
+                                        <span class="repo">Teamable-Analytics/algorithms</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">38-create-user-model</span></div>
+                                    <div>on branch <span class="code">67-implement-rarest-first-algorithm</span></div>
                                     <div class="commit">
-                                        <div class="sha">#36b5e55</div>
-                                        <div class="message">Change to Edge</div>
+                                        <div class="sha">#bc07d89</div>
+                                        <div class="message">Fix tests</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Teamable-Analytics/algorithms</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">67-implement-rarest-first-algorithm</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9a17689</div>
+                                        <div class="message">Lint</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Teamable-Analytics/algorithms</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">67-implement-rarest-first-algorithm</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#924d288</div>
+                                        <div class="message">Remove old algorithm</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 90 commits in
+                                        <span class="repo">Teamable-Analytics/algorithms</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">67-implement-rarest-first-algorithm</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#76e7e7f</div>
+                                        <div class="message">Merge pull request #92 from Teamable-Analytics/09-26-support_specifying_which_algorithms_to_run_with
+
+support specifying which algorithms to run with</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#346e723</div>
+                                        <div class="message">mock initial teams provider</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7c79af</div>
+                                        <div class="message">lint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7067782</div>
+                                        <div class="message">support specifying which algorithms to run with</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05bf397</div>
+                                        <div class="message">Merge pull request #78 from Teamable-Analytics/09-23-start_new_implementation_of_algorithms
+
+start new implementation of algorithms</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f732b15</div>
+                                        <div class="message">remove fat to prepare for merge</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5899212</div>
+                                        <div class="message">lint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#417c673</div>
+                                        <div class="message">make sure algorithm options types are casted correctly</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cad192d</div>
+                                        <div class="message">start new implementation of algorithms</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39e4b81</div>
+                                        <div class="message">Merge pull request #82 from Teamable-Analytics/09-23-add_CLI_to_runs
+
+add CLI to runs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ee5d8d</div>
+                                        <div class="message">fix many attributes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1535ec</div>
+                                        <div class="message">add to convention explaining how to run files in nested files in python</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afa976d</div>
+                                        <div class="message">add CLI to runs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#910d615</div>
+                                        <div class="message">Generate graphs of runtime and avg gini index for many attributes scenario run (#72)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd39fdd</div>
+                                        <div class="message">Merge pull request #66 from Teamable-Analytics/09-15-standardize_naming_of_runs
+
+standardize naming of runs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cbf703d</div>
+                                        <div class="message">Merge pull request #58 from Teamable-Analytics/09-12-add_concentrate_on_multiple_attributes_scenario
+
+add concentrate on multiple attributes scenario</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc62fc2</div>
+                                        <div class="message">standardize naming of runs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6f4e83</div>
+                                        <div class="message">rename run</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3656115</div>
+                                        <div class="message">lint</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb41914</div>
+                                        <div class="message">add concentrate on multiple attributes scenario</div>
                                     </div>
                                 </div>
                             </section>
@@ -442,68 +588,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">38-create-user-model</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7585763</div>
-                                        <div class="message">Use electron since google flagged chrome</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">COSC-499-W2023/year-long-project-team-3</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">38-create-user-model</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0eb31be</div>
-                                        <div class="message">Remove matrix and update new credentials</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">COSC-499-W2023/year-long-project-team-3</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">38-create-user-model</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b8789e4</div>
-                                        <div class="message">Matrix update</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">COSC-499-W2023/year-long-project-team-3</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">38-create-user-model</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b38f8d8</div>
-                                        <div class="message">REmove env file</div>
+                                        <div class="sha">#d12c7dd</div>
+                                        <div class="message">Skip test auth since google is flagging</div>
                                     </div>
                                 </div>
                             </section>
@@ -513,7 +599,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Oct 2023, 09:09:39 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Oct 2023, 09:08:42 (timezone America/Vancouver) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
